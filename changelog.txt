@@ -1,0 +1,9 @@
+---------------------------------------------------------------------------------------------------
+Version: 0.1.0
+Date: 2022-08-16
+  Features:
+    - A setting to turn on intermediates across all other enabled BZ mods
+    - A setting to bypass modifications for specific recipes across all other enabled BZ mods
+    - A setting to turn off all smelting byproducts across other enabled BZ mods
+    - An alpha "Tabula rasa" setting. Turn off all recipe modifications. Only keep base entities, 
+      items, intermediates, and necessary recipes.
