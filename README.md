@@ -11,3 +11,7 @@ See changelog.txt
 
 - [brevven](https://mods.factorio.com/user/brevven)
 
+### Thanks to 
+
+- Xynariz, for idea and brainstorming
+
